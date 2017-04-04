@@ -7,5 +7,6 @@ public class TestString {
 	public static void main(String[] args) {
 		Set<String> str = new HashSet<String>();
 		str.add("sss");
+		System.out.println("修改文件，测试git");
 	}
 }
