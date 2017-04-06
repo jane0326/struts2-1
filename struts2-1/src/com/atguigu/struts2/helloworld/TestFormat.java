@@ -53,7 +53,7 @@ public class TestFormat {
 		String rjhb = df.format(res)+"%";
 		System.out.println("rjhbk:  "+rjhbk+"    "+"rjhb: "+rjhb);        
 		
-		
+		System.out.println("test for remote");
 		
 	}
 }
